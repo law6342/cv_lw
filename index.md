@@ -11,7 +11,11 @@ BSc, Aerospace Physiology
 ## Aug 2021 - Dec 2024
 
 Embry-Riddle Aeronautical University, Daytona Beach, FL
-3.8 Cumulative GPA, magna cum laude
+
+3.8 Cumulative GPA
+
+Magna cum laude
+
 Minors in chemistry, psychology, and human factors
 
 Research interests:
@@ -27,17 +31,27 @@ Space Microbiology Lab: Daytona Beach, FL
 Lab assistant conducting research with BSL 1 microbes under simulated space conditions and carrying out general laboratory responsibilities. Worked as a Principle Investigator on a funded project to investigate virulence-related phenotypes of fungal strains from the International Space Station.
 
 DNA and RNA extraction, primer design and gel electrophoresis: basic agarose and SDS-PAGE
-PCR: quantitative (reverse transcription/real time) and conventional end-point. SYBR green
-probe-based assays for real time Q-PCR (copy number calculation and relative fold change)
+
+PCR: quantitative (reverse transcription/real time) and conventional end-point. SYBR green probe-based assays for real time Q-PCR (copy number calculation and relative fold change)
+
 Enzymatic restriction analysis
+
 Analysis on effect of martian regolith simulant on Staphylococcus epidermidis genes
+
 Bacterial cell cultures: Escherichia coli, Staphylococcus epidermidis
+
 Yeast cell cultures: Rhodotorula mucilaginosa and Candida parapsilosis
+
 Preparation of media to induce filamentation (YPD, SDA, BSA)
+
 Aseptic technique and autoclave sterilization
+
 Gram staining using crystal violet (wet and dry mount slides)
+
 Microplate analysis for protein isolation
+
 C. elegans infection model
+
 Statistical and technical data interpretation: Microsoft Excel, GraphPad Prism
 
 ## RESEARCH ASSISTANT
@@ -45,13 +59,19 @@ Biomedical Engineering Lab: Daytona Beach, FL
 ## Dec 2022 - Feb 2024 
 
 Awarded funds by the university for paid undergraduate research assisting in the development of a machine learning algorithm for detecting hip dysplasia in infants.
+
 Programming languages: MATLAB and Python
+
 Labeled anatomical regions of the human pelvis on radiographs using MATLAB's image
 labeling tools (femoral head, lateral acetabular roof, triradiate cartilage, and pelvic/Köhler teardrop) for ground truth metrics
+
 Aligned anatomical structures and manipulated 3D models for accurate representation,
 including rotating around craniocaudal and mediolateral axes
+
 Comprehensive analysis of images from various angles
+
 Completed mechanical engineering laboratory safety course
+
 Collaboration with medical specialists, graduate students, and faculty mentors to ensure
 accuracy and consistency
 
