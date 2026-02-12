@@ -1,6 +1,6 @@
 ## LAUREN WILSON
 319 Toftrees Ave Unit 336 State College, PA 16803  
-404-539-2774 
+404-539-2774 | 
 law6342@psu.edu
 
 ## SUMMARY
@@ -56,10 +56,10 @@ Collaboration with medical specialists, graduate students, and faculty mentors t
 accuracy and consistency
 
 ## PRESENTATIONS
-Impact of Spaceflight on Fungal Antibiotic Susceptibility and Virulence. Wilson L., Daugherty
-K., O’Brien T., and Chavez A. Student Research Symposium, Embry Riddle, November 2023.
-Using Machine Learning to Diagnose Misaligned CT Scans. Perry S., Folkman M., O’Brien T.,
-Wilson L., Coyle E., Liu R., Price C., and Huayamave V. Student Research Symposium, Embry Riddle, November 2023.
+Impact of Spaceflight on Fungal Antibiotic Susceptibility and Virulence. Wilson L., Daugherty K., O’Brien T., and Chavez A. Student Research Symposium, Embry Riddle, November 2023.
+
+Using Machine Learning to Diagnose Misaligned CT Scans. Perry S., Folkman M., O’Brien T., Wilson L., Coyle E., Liu R., Price C., and Huayamave V. Student Research Symposium, Embry Riddle, November 2023.
+
 Observing Pathogenic Affinity of Yeast Isolates under Simulated Lunar and Martian
 Atmospheres. Daugherty K., O’Brien T., Wilson L., Legon C., Castillo H., and Chavez A.
 Observing Pathogenic Affinity of Yeast Isolates under Simulated Lunar and Martian
@@ -69,32 +69,24 @@ Phenotypic Expression of Yeast Isolated from the ISS. Wilson L. Aerospace Physio
 Seminar Series, Embry Riddle, October 2023
 
 ## PUBLICATIONS
-Wilson, L., Nielsen, K., Caspasso-Villanueva, S., O'Brien, T., Hefner, L. A., Slick, P., Petty, L.,
-Dienna, R., Castillo, H., & Chavez, A. (2025). Characterization of virulence-related
-phenotypes of Candida parapsilosis and Rhodotorula mucilaginosa isolated from the
-International Space Station (ISS). Life Sciences in Space Research, 45, 16–24.
-https://doi.org/10.1016/j.lssr.2025.01.002
-Perry, S., Folkman, M., O’Brien, T., Wilson, L., Coyle, E., Liu, R.W., Price, C.T., & Huayamave,
-V. "Utilizing Neural Networks to Assist in the Assessment and Predictive Measurement of
-Developmental Hip Dysplasia Radiographs." Proceedings of the ASME 2023 International
-Mechanical Engineering Congress and Exposition. Volume 5: Biomedical and Biotechnology.
-New Orleans, Louisiana, USA. October 29–November 2, 2023. V005T06A008. ASME.
-Perry, S., Folkman, M., O'Brien, T., Wilson, L. A., Coyle, E., Liu, R.W., Price, C.T., and
-Huayamave, V.A. (April 2, 2024)."Unaligned Hip Radiograph Assessment Utilizing
+Wilson, L., Nielsen, K., Caspasso-Villanueva, S., O'Brien, T., Hefner, L. A., Slick, P., Petty, L., Dienna, R., Castillo, H., & Chavez, A. (2025). Characterization of virulence-related phenotypes of Candida parapsilosis and Rhodotorula mucilaginosa isolated from the International Space Station (ISS). Life Sciences in Space Research, 45, 16–24. https://doi.org/10.1016/j.lssr.2025.01.002
+
+Perry, S., Folkman, M., O’Brien, T., Wilson, L., Coyle, E., Liu, R.W., Price, C.T., & Huayamave, V. "Utilizing Neural Networks to Assist in the Assessment and Predictive Measurement of Developmental Hip Dysplasia Radiographs." Proceedings of the ASME 2023 International Mechanical Engineering Congress and Exposition. Volume 5: Biomedical and Biotechnology. New Orleans, Louisiana, USA. October 29–November 2, 2023. V005T06A008. ASME.
+
+Perry, S., Folkman, M., O'Brien, T., Wilson, L. A., Coyle, E., Liu, R.W., Price, C.T., and Huayamave, V.A. (April 2, 2024)."Unaligned Hip Radiograph Assessment Utilizing
 Convolutional Neural Networks for the Assessment of Developmental Dysplasia of the Hip."
-ASME. ASME J of Medical Diagnostics. November 2024; 7(4): 041003.
-https://doi.org/10.1115/1.4064988
+ASME. ASME J of Medical Diagnostics. November 2024; 7(4): 041003. https://doi.org/10.1115/1.4064988
 
 ## AWARDS & RECOGNITION
-Dean's List   
-2021-2024       
-ERAU            
+Dean's List
+2021-2024
+ERAU  
 Recognition / year
 
-Women of Excellence Scholarship 
-2021-2024    
-ERAU                                                  
-$5,000.00 / year                                                                   
+Women of Excellence Scholarship
+2021-2024
+ERAU                                             
+$5,000.00 / year                                                          
 
 Provost Scholarship
 2021-2024
@@ -106,7 +98,7 @@ Women’s Ambassador Scholarship
 ERAU
 $500 / semester
                                                                                         
-Summer Undergraduate Research Fellowship 
+Summer Undergraduate Research Fellowship
 May 2023
 ERAU
 $3,000.00
@@ -114,32 +106,41 @@ $3,000.00
 Distinguished Graduate Fellowship
 Aug 2024
 Penn State
-$3,250.00 / month                                               
+$3,250.00 / month                                     
 
-Penn State
 Science Achievement Graduate Fellowship
 Aug 2025
 Penn State
-$3,000.00 / year 
+$3,000.00 / year
 
 ## LEADERSHIP
 ## Peer Mentor
 ## May 2024 - Dec 2024
 Office of Undergraduate Research
+
 Held weekly office hours for student drop-ins and assisted with office operations
+
 Met with students interested in starting research to connect them with faculty mentors and find projects that match their interest
+
 Followed up with students throughout the research process
+
 Shared personal experience regarding research grants and applications
+
 Assisted with front desk duties, data entry, and event support for Discovery Day and the
 Student Research Symposium
 
 ## Women’s Ambassador 
-## Aug 2023 - Dec 2024
 Embry-Riddle Office of Admissions
+## Aug 2023 - Dec 2024
+
 Traveled on behalf of the university to promote female enrollment in underrepresented STEM fields
+
 Organized on-campus events aimed at empowering women in STEM
+
 Spoke at conferences to answer questions of parents and students
+
 Served as a mentor for female students by providing academic advice
+
 Informed students about available resources and how to access them
 
 ## VOLUNTEERING & ACTIVITIES
