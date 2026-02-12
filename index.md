@@ -1,11 +1,15 @@
 ## LAUREN WILSON
-319 Toftrees Ave Unit 336 State College, PA 16803 • 404-539-2774 • law6342@psu.edu
+319 Toftrees Ave Unit 336 State College, PA 16803  
+404-539-2774 
+law6342@psu.edu
 
 ## SUMMARY
 My research focuses on understanding how environmental conditions impact microbial behavior and  pathogenic  potential  relevant  to  human  health.  I  have investigated  microbial  traits  such  as biofilm formation, stress tolerance, antimicrobial resistance, and cell signaling that contribute to disease. In my graduate studies, I aim to further explore how these microbial behaviors impact human physiology and apply this knowledge toward the development of therapeutic interventions.
 
 ## CAREER HISTORY
-BSc, Aerospace Physiology ## Aug 2021 - Dec 2024
+BSc, Aerospace Physiology 
+## Aug 2021 - Dec 2024
+
 Embry-Riddle Aeronautical University, Daytona Beach, FL
 3.8 Cumulative GPA, magna cum laude
 Minors in chemistry, psychology, and human factors
@@ -22,7 +26,6 @@ Space Microbiology Lab: Daytona Beach, FL
 
 Lab assistant conducting research with BSL 1 microbes under simulated space conditions and carrying out general laboratory responsibilities. Worked as a Principle Investigator on a funded project to investigate virulence-related phenotypes of fungal strains from the International Space Station.
 
-Skills:
 DNA and RNA extraction, primer design and gel electrophoresis: basic agarose and SDS-PAGE
 PCR: quantitative (reverse transcription/real time) and conventional end-point. SYBR green
 probe-based assays for real time Q-PCR (copy number calculation and relative fold change)
@@ -37,6 +40,21 @@ Microplate analysis for protein isolation
 C. elegans infection model
 Statistical and technical data interpretation: Microsoft Excel, GraphPad Prism
 
+## RESEARCH ASSISTANT
+Biomedical Engineering Lab: Daytona Beach, FL
+## Dec 2022 - Feb 2024 
+
+Awarded funds by the university for paid undergraduate research assisting in the development of a machine learning algorithm for detecting hip dysplasia in infants.
+Programming languages: MATLAB and Python
+Labeled anatomical regions of the human pelvis on radiographs using MATLAB's image
+labeling tools (femoral head, lateral acetabular roof, triradiate cartilage, and pelvic/Köhler teardrop) for ground truth metrics
+Aligned anatomical structures and manipulated 3D models for accurate representation,
+including rotating around craniocaudal and mediolateral axes
+Comprehensive analysis of images from various angles
+Completed mechanical engineering laboratory safety course
+Collaboration with medical specialists, graduate students, and faculty mentors to ensure
+accuracy and consistency
+
 ## PRESENTATIONS
 Impact of Spaceflight on Fungal Antibiotic Susceptibility and Virulence. Wilson L., Daugherty
 K., O’Brien T., and Chavez A. Student Research Symposium, Embry Riddle, November 2023.
@@ -49,7 +67,6 @@ Atmospheres. Discovery Day Symposium, Embry Riddle, April 2024.
 
 Phenotypic Expression of Yeast Isolated from the ISS. Wilson L. Aerospace Physiology
 Seminar Series, Embry Riddle, October 2023
-
 
 ## PUBLICATIONS
 Wilson, L., Nielsen, K., Caspasso-Villanueva, S., O'Brien, T., Hefner, L. A., Slick, P., Petty, L.,
@@ -68,38 +85,43 @@ Convolutional Neural Networks for the Assessment of Developmental Dysplasia of t
 ASME. ASME J of Medical Diagnostics. November 2024; 7(4): 041003.
 https://doi.org/10.1115/1.4064988
 
-
-## RESEARCH ASSISTANT
-Dec 2022 - Feb 2024 Biomedical Engineering Lab: Daytona Beach, FL
-Awarded funds by the university for paid undergraduate research assisting in the development
-of a machine learning algorithm for detecting hip dysplasia in infants.
-Programming languages: MATLAB and Python
-Labeled anatomical regions of the human pelvis on radiographs using MATLAB's image
-labeling tools (femoral head, lateral acetabular roof, triradiate cartilage, and pelvic/Köhler
-teardrop) for ground truth metrics
-Aligned anatomical structures and manipulated 3D models for accurate representation,
-including rotating around craniocaudal and mediolateral axes
-Comprehensive analysis of images from various angles
-Completed mechanical engineering laboratory safety course
-Collaboration with medical specialists, graduate students, and faculty mentors to ensure
-accuracy and consistency
-
-
 ## AWARDS & RECOGNITION
-Dean’sList                                                                                                  Recognition / year
-2021-2024                                                                                                  ERAU
-Women of Excellence Scholarship                                                            $5,000.00 / year
-2021-2024                                                                                                   ERAU
-Provost Scholarship                                                                                   $13,000,00 Merit Grant / year
-2021-2024                                                                                                   ERAU
-Women’s Ambassador Scholarship                                                           $500 / semester
-2023-2024                                                                                                  ERAU
-Summer Undergraduate Research Fellowship                                          $3,000.00
-May 2023                                                                                                     ERAU
-Distinguished Graduate Fellowship                                                           $3,250.00 / month
-Aug 2025                                                                                                     Penn State
-Science Achievement Graduate Fellowship                                             $3,000.00 / year
-Aug 2025                                                                                                     Penn State
+Dean's List   
+2021-2024       
+ERAU            
+Recognition / year
+
+Women of Excellence Scholarship 
+2021-2024    
+ERAU                                                  
+$5,000.00 / year                                                                   
+
+Provost Scholarship
+2021-2024
+ERAU
+$13,000,00 Merit Grant / year
+                                                                                       
+Women’s Ambassador Scholarship
+2023-2024
+ERAU
+$500 / semester
+                                                                                        
+Summer Undergraduate Research Fellowship 
+May 2023
+ERAU
+$3,000.00
+
+Distinguished Graduate Fellowship
+Aug 2024
+Penn State
+$3,250.00 / month                                               
+
+Penn State
+Science Achievement Graduate Fellowship
+Aug 2025
+Penn State
+$3,000.00 / year 
+
 ## LEADERSHIP
 ## Peer Mentor
 ## May 2024 - Dec 2024
@@ -110,7 +132,6 @@ Followed up with students throughout the research process
 Shared personal experience regarding research grants and applications
 Assisted with front desk duties, data entry, and event support for Discovery Day and the
 Student Research Symposium
-
 
 ## Women’s Ambassador 
 ## Aug 2023 - Dec 2024
