@@ -1,13 +1,29 @@
 ## LAUREN WILSON
+319 Toftrees Ave Unit 336 State College, PA 16803 • 404-539-2774 • law6342@psu.edu
 
 ## SUMMARY
 My research focuses on understanding how environmental conditions impact microbial behavior and  pathogenic  potential  relevant  to  human  health.  I  have investigated  microbial  traits  such  as biofilm formation, stress tolerance, antimicrobial resistance, and cell signaling that contribute to disease. In my graduate studies, I aim to further explore how these microbial behaviors impact human physiology and apply this knowledge toward the development of therapeutic interventions.
 
+## CAREER HISTORY
+BSc, Aerospace Physiology ## Aug 2021 - Dec 2024
+Embry-Riddle Aeronautical University, Daytona Beach, FL
+3.8 Cumulative GPA, magna cum laude
+Minors in chemistry, psychology, and human factors
+
+Research interests:
+Microbial physiology and pathogenesis
+Microbiome-based therapeutics
+Host-microbiome interactions
+Quorum sensing in microbes
+
 ## LABORATORY/RESEARCH TECHNICIAN
-Lab assistant conducting research with BSL 1 microbes under simulated space conditions and carrying out general laboratory responsibilities. Worked as a Principle Investigator on a funded project to investigate virulence-related phenotypes of fungal strains from the International
-## Space Station.
-DNA and RNA extraction, primer design and gel electrophoresis: basic agarose and SDS-
-## PAGE
+Space Microbiology Lab: Daytona Beach, FL
+## Jan 2022 - Dec 2024
+
+Lab assistant conducting research with BSL 1 microbes under simulated space conditions and carrying out general laboratory responsibilities. Worked as a Principle Investigator on a funded project to investigate virulence-related phenotypes of fungal strains from the International Space Station.
+
+Skills:
+DNA and RNA extraction, primer design and gel electrophoresis: basic agarose and SDS-PAGE
 PCR: quantitative (reverse transcription/real time) and conventional end-point. SYBR green
 probe-based assays for real time Q-PCR (copy number calculation and relative fold change)
 Enzymatic restriction analysis
@@ -20,33 +36,22 @@ Gram staining using crystal violet (wet and dry mount slides)
 Microplate analysis for protein isolation
 C. elegans infection model
 Statistical and technical data interpretation: Microsoft Excel, GraphPad Prism
-Space Microbiology Lab: Daytona Beach, FL
-## Jan 2022 - Dec 2024
-319 Toftrees Ave Unit 336 State College, PA 16803 • 404-539-2774 • law6342@psu.edu
-## CAREER HISTORY
-BSc, Aerospace Physiology
-Embry-Riddle Aeronautical University, Daytona Beach, FL
-3.8 Cumulative GPA, magna cum laude
-Minors in chemistry, psychology, and human factors
-## Aug 2021 - Dec 2024
-Research interests:
-Microbial physiology and pathogenesis
-Microbiome-based therapeutics
-Host-microbiome interactions
-Quorum sensing in microbes
 
+## PRESENTATIONS
 Impact of Spaceflight on Fungal Antibiotic Susceptibility and Virulence. Wilson L., Daugherty
 K., O’Brien T., and Chavez A. Student Research Symposium, Embry Riddle, November 2023.
 Using Machine Learning to Diagnose Misaligned CT Scans. Perry S., Folkman M., O’Brien T.,
-Wilson L., Coyle E., Liu R., Price C., and Huayamave V. Student Research Symposium, Embry
-## Riddle, November 2023.
+Wilson L., Coyle E., Liu R., Price C., and Huayamave V. Student Research Symposium, Embry Riddle, November 2023.
 Observing Pathogenic Affinity of Yeast Isolates under Simulated Lunar and Martian
 Atmospheres. Daugherty K., O’Brien T., Wilson L., Legon C., Castillo H., and Chavez A.
 Observing Pathogenic Affinity of Yeast Isolates under Simulated Lunar and Martian
-## Atmospheres. Discovery Day Symposium, Embry Riddle, April 2024.
+Atmospheres. Discovery Day Symposium, Embry Riddle, April 2024.
+
 Phenotypic Expression of Yeast Isolated from the ISS. Wilson L. Aerospace Physiology
-## Seminar Series, Embry Riddle, October 2023
-## PRESENTATIONS
+Seminar Series, Embry Riddle, October 2023
+
+
+## PUBLICATIONS
 Wilson, L., Nielsen, K., Caspasso-Villanueva, S., O'Brien, T., Hefner, L. A., Slick, P., Petty, L.,
 Dienna, R., Castillo, H., & Chavez, A. (2025). Characterization of virulence-related
 phenotypes of Candida parapsilosis and Rhodotorula mucilaginosa isolated from the
@@ -62,6 +67,10 @@ Huayamave, V.A. (April 2, 2024)."Unaligned Hip Radiograph Assessment Utilizing
 Convolutional Neural Networks for the Assessment of Developmental Dysplasia of the Hip."
 ASME. ASME J of Medical Diagnostics. November 2024; 7(4): 041003.
 https://doi.org/10.1115/1.4064988
+
+
+## RESEARCH ASSISTANT
+Dec 2022 - Feb 2024 Biomedical Engineering Lab: Daytona Beach, FL
 Awarded funds by the university for paid undergraduate research assisting in the development
 of a machine learning algorithm for detecting hip dysplasia in infants.
 Programming languages: MATLAB and Python
@@ -74,12 +83,10 @@ Comprehensive analysis of images from various angles
 Completed mechanical engineering laboratory safety course
 Collaboration with medical specialists, graduate students, and faculty mentors to ensure
 accuracy and consistency
-Dec 2022 - Feb 2024Biomedical Engineering Lab: Daytona Beach, FL
-## RESEARCH ASSISTANT
-## PUBLICATIONS
+
 
 ## AWARDS & RECOGNITION
-Dean’s List                                                                                                  Recognition / year
+Dean’sList                                                                                                  Recognition / year
 2021-2024                                                                                                  ERAU
 Women of Excellence Scholarship                                                            $5,000.00 / year
 2021-2024                                                                                                   ERAU
@@ -95,50 +102,39 @@ Science Achievement Graduate Fellowship                                         
 Aug 2025                                                                                                     Penn State
 ## LEADERSHIP
 ## Peer Mentor
+## May 2024 - Dec 2024
 Office of Undergraduate Research
 Held weekly office hours for student drop-ins and assisted with office operations
-Met with students interested in starting research to connect them with faculty mentors and
-find projects that match their interest
+Met with students interested in starting research to connect them with faculty mentors and find projects that match their interest
 Followed up with students throughout the research process
 Shared personal experience regarding research grants and applications
 Assisted with front desk duties, data entry, and event support for Discovery Day and the
-## Student Research Symposium
-## May 2024 - Dec 2024
-## Women’s Ambassador
+Student Research Symposium
+
+
+## Women’s Ambassador 
+## Aug 2023 - Dec 2024
 Embry-Riddle Office of Admissions
-Traveled on behalf of the university to promote female enrollment in underrepresented STEM
-fields
+Traveled on behalf of the university to promote female enrollment in underrepresented STEM fields
 Organized on-campus events aimed at empowering women in STEM
 Spoke at conferences to answer questions of parents and students
 Served as a mentor for female students by providing academic advice
 Informed students about available resources and how to access them
-## Aug 2023 - Dec 2024
+
 ## VOLUNTEERING & ACTIVITIES
-Biomedical Engineering Society Treasurer (2022-2024): I worked to uphold the club’s mission of
-holding research seminars during general meetings, promoting collaboration between the College
-of  Engineering  and  the  College  of  Arts  and  Sciences,  and  participating  in  community  outreach
-STEAM  events  with  local  elementary  schools.  As  the  treasurer,  I  managed  the  club’s  budget
-tracking income and expenses and prepared financial reports to discuss with members. Through
-collaboration with the Student Government Association, I facilitated timely reimbursements for club
-members,  ensuring  efficient  transactions.  I  led  in  organizing  on-campus  events  using  allocated
-funds to recruit new members and boost morale of current club members.
+Biomedical Engineering Society Treasurer (2022-2024): I worked to uphold the club’s mission of holding research seminars during general meetings, promoting collaboration between the College of  Engineering  and  the  College  of  Arts  and  Sciences,  and  participating  in  community  outreach STEAM  events  with  local  elementary  schools.  As  the  treasurer,  I  managed  the  club’s  budget tracking income and expenses and prepared financial reports to discuss with members. Through
+collaboration with the Student Government Association, I facilitated timely reimbursements for club members,  ensuring  efficient  transactions.  I  led  in  organizing  on-campus  events  using  allocated funds to recruit new members and boost morale of current club members.
 
 Chemistry Club (2023-2024): As a founding member of the chemistry club, we worked to
-share knowledge to students interested in the chemistry field and getting involved in research.
-As a club, we hosted open house nights where we ran basic chemistry experiments to provide
-students with an introduction to the research process. Field trips within the club included
-traveling to laboratories within the state of Florida and participating in chemistry related
-research.
+share knowledge to students interested in the chemistry field and getting involved in research. As a club, we hosted open house nights where we ran basic chemistry experiments to provide students with an introduction to the research process. Field trips within the club included traveling to laboratories within the state of Florida and participating in chemistry related research.
+
 Medi-Futures Virtual Shadowing (2023-2024): Obtained 40 virtual shadowing hours to
 network with healthcare professionals and expand my knowledge on clinical research.
 Graduate and Transfer Admissions Assistant (March-October 2024): Shared knowledge
-regarding degree programs, admissions guidelines, and general inquiries through phone calls,
-cases, emails, and tasks.
-Protecting Animal Wellness Society (2021-2023): While living on campus, I helped take care
-of Embry-Riddle’s feral cat population by assisting with the weekly feeding schedule and
-monitoring their health. We implemented a trap, spay/neuter, and release program to effectively
-manage the population. I took part in fundraising efforts to collect money for vet fees.
+regarding degree programs, admissions guidelines, and general inquiries through phone calls, cases, emails, and tasks.
+
+Protecting Animal Wellness Society (2021-2023): While living on campus, I helped take care of Embry-Riddle’s feral cat population by assisting with the weekly feeding schedule and monitoring their health. We implemented a trap, spay/neuter, and release program to effectively manage the population. I took part in fundraising efforts to collect money for vet fees.
+
 Alpha Epsilon Delta Honor Society (2023-2024): Selected for membership based on academic
 excellence in the Aerospace Physiology major. I am an active member, engaging in as many
-volunteering opportunities within the organization as possible including assistance with events
-such as Science Olympiad and Girls on the Run.
+volunteering opportunities within the organization as possible including assistance with events such as Science Olympiad and Girls on the Run.
