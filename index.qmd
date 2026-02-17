@@ -1,3 +1,10 @@
+---
+title: "Lauren Wilson"
+subtitle: "Graduate Student in Microbiology | Penn State"
+page-layout: full
+toc: false
+---
+
 ## LAUREN WILSON
 319 Toftrees Ave Unit 336 State College, PA 16803  
 404-539-2774 | 

@@ -1,0 +1,74 @@
+---
+title: "Creating This Website"
+author: "Lauren Wilson"
+date: "2026-02-17"
+categories: [meta, quarto, web development]
+description: "How I built this personal website using Quarto and GitHub Pages"
+---
+
+## Introduction
+
+After completing my undergraduate degree and beginning my graduate studies at Penn State, I decided it was time to create a professional website to showcase my CV and share my thoughts through blog posts. This first post documents the process of building this site.
+
+## Why Quarto?
+
+I chose [Quarto](https://quarto.org/) for several reasons:
+
+1. **Simplicity**: Quarto makes it easy to create websites from markdown files without dealing with complex web frameworks
+2. **Scientific Publishing**: As a researcher, Quarto's strong support for scientific writing, equations, and citations is invaluable
+3. **Built-in Blog Support**: The blog functionality comes out of the box with listings, RSS feeds, and categories
+4. **Flexibility**: I can easily add more pages, customize the design, and extend functionality as needed
+
+## The Build Process
+
+### Setting Up the Structure
+
+The website consists of a few key files:
+
+- `_quarto.yml`: The main configuration file that defines the site structure and appearance
+- `index.qmd`: My CV, serving as the homepage
+- `blog.qmd`: The blog listing page
+- `posts/`: Directory containing all blog posts
+
+### Configuration
+
+In `_quarto.yml`, I configured:
+
+- A navigation bar with links to Home and Blog
+- The Cosmo theme for a clean, professional look
+- Custom CSS for additional styling
+
+### GitHub Pages Deployment
+
+To automate deployment, I set up GitHub Actions to:
+
+1. Build the Quarto site whenever I push to the main branch
+2. Deploy the generated site to GitHub Pages
+3. Make the site accessible at the GitHub Pages URL
+
+The workflow handles all the dependencies and rendering automatically, so I can focus on writing content.
+
+## What's Next?
+
+Now that the infrastructure is in place, I plan to:
+
+- Share insights from my research in microbiology and space science
+- Document my graduate school journey
+- Write about technical topics I'm learning
+- Provide resources for other students in STEM
+
+## Technical Details
+
+For those interested in the technical setup:
+
+- **Platform**: Quarto
+- **Hosting**: GitHub Pages
+- **CI/CD**: GitHub Actions
+- **Version Control**: Git/GitHub
+- **Markdown Flavor**: Quarto Markdown (supports LaTeX, code blocks, and more)
+
+The entire source code for this website is available in my [GitHub repository](https://github.com), and you can use it as a template for your own site.
+
+## Conclusion
+
+Building this website was a great learning experience and a practical way to apply technical skills outside the lab. If you're a researcher or student considering creating your own site, I highly recommend giving Quarto a try!

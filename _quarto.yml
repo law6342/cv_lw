@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Lauren Wilson"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Blog"
+        href: blog.qmd
+  page-footer:
+    center: "Copyright 2026, Lauren Wilson"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
