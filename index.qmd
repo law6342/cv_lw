@@ -1,6 +1,6 @@
 ---
 title: "Lauren Wilson"
-subtitle: "Graduate Student in BMMB | Penn State"
+subtitle: "Graduate Student in BMMB | Penn State University"
 page-layout: full
 toc: false
 ---
@@ -15,7 +15,7 @@ My research focuses on understanding how environmental conditions impact microbi
 
 ## CAREER HISTORY
 BSc, Aerospace Physiology 
-## Aug 2021 - Dec 2024
+Aug 2021 - Dec 2024
 
 Embry-Riddle Aeronautical University, Daytona Beach, FL
 
@@ -26,10 +26,7 @@ Magna cum laude
 Minors in chemistry, psychology, and human factors
 
 Research interests:
-Microbial physiology and pathogenesis
-Microbiome-based therapeutics
-Host-microbiome interactions
-Quorum sensing in microbes
+Microbial physiology and pathogenesis, microbiome-based therapeutics, host-microbiome interactions, quorum sensing in microbes
 
 ## LABORATORY/RESEARCH TECHNICIAN
 Space Microbiology Lab: Daytona Beach, FL
