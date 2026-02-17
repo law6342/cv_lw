@@ -1,6 +1,6 @@
 ---
 title: "Lauren Wilson"
-subtitle: "Graduate Student in Microbiology | Penn State"
+subtitle: "Graduate Student in BMMB | Penn State"
 page-layout: full
 toc: false
 ---
