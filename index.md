@@ -124,7 +124,7 @@ ERAU
 $3,000.00
 
 Distinguished Graduate Fellowship
-Aug 2024
+Aug 2025
 Penn State
 $3,250.00 / month                                     
 
